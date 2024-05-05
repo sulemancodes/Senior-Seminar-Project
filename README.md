@@ -48,12 +48,13 @@ Almari addresses the risks associated with traditional online marketplaces like 
    Add your MongoDB connection string to mongoUR in backend/config/keys.js
 
 6. **Run the application**
-  a. Run the server
+
+   a. Run the server
    ```bash
    cd backend
    npm start
    ```
- b. Run the client
+   b. Run the client
    ```bash
    cd frontend
    npm start
